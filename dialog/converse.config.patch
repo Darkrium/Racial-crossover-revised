@@ -2,7 +2,7 @@
 	{
 		"op":"add",
 		"path":"/converse/avali/grey",
-		"value":{
+		"value":[
 			"Hi~",
 			"Hmm, sorry, I was checking my messages...",
 			"I'm a little occupied right now...",
@@ -17,10 +17,12 @@
 			"Does your race have no nudity taboo too, or do you just enjoy streaking?",
 			"You're not fooling us, that's an anal probe, not a 'traditional greeting.'",
 			"Jokes on you, we don't have an anus to probe!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/avali/kobold",
-		"value":{
+		"value":[
 			"Hi~",
 			"Hmm, sorry, I was checking my messages...",
 			"I'm a little occupied right now...",
@@ -36,10 +38,12 @@
 			"Security!  Someone's pet has escaped!",
 			"Please leave any stolen items at the visitors' office before you beam out.",
 			"We should exchange fashion notes some time, I like what you did with those teeth and feathers..."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/avali/mantis",
-		"value":{
+		"value":[
 			"Hi~",
 			"Hmm, sorry, I was checking my messages...",
 			"I'm a little occupied right now...",
@@ -55,10 +59,12 @@
 			"Some insects make their own music by rubbing their hind legs together, can Mantis do that too?",
 			"Would you be interested in exchanging research notes?",
 			"Find anything interesting lately?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/avali/munari",
-		"value":{
+		"value":[
 			"Hi~",
 			"Hmm, sorry, I was checking my messages...",
 			"I'm a little occupied right now...",
@@ -75,10 +81,12 @@
 			"Please don't drip anywhere.",
 			"Can we get a cleanup team over here! There's been a spillage of hydroxic acid.",
 			"Ack, you set off the toxicology alarm."
-			},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/avali/reptan",
-		"value":{
+		"value":[
 			"Hi~",
 			"Hmm, sorry, I was checking my messages...",
 			"I'm a little occupied right now...",
@@ -95,10 +103,12 @@
 			"Is it true they make you fight your own kind, just because?",
 			"Sorry, you need a neural jack to connect with the Nexus. That's not something I can do with my boot knife.",
 			"Why do all other races have such silly ears..."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/avali/varan",
-		"value":{
+		"value":[
 			"Hi~",
 			"Hmm, sorry, I was checking my messages...",
 			"I'm a little occupied right now...",
@@ -110,10 +120,12 @@
 			"Has anyone told you, you're hot, I mean, really hot... painfully so. So.",
 			"<Pokes chests> What are those lumps for that female aliens have?",
 			"Varan, Hylotl, Reptan, Munari, Avali, Kobold, Avaians, ever notice how the most successful races have reptilian ancestors? Humans and Apex are weird..."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/grey/avali",
-		"value":{
+		"value":[
 			"Love your eyes!",
 			"So... you are like the hawks... compared to the Avian chickens?",
 			"Impressive technology you have there!",
@@ -127,10 +139,12 @@
 			"Show me to your leader!",
 			"We come in peace.",
 			"Stay Grey."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/grey/kobold",
-		"value":{
+		"value":[
 			"<tickle tickle> You're a cute one!",
 			"Do you need any help?",
 			"Back on Zeta Reticuli, I have a pet that looks just like you!",
@@ -144,10 +158,12 @@
 			"Stay Grey.",
 			"Maybe you would want some architectural advice... Your buildings are a bit flimsy. We've helped many cultures with this!",
 			"Greetings! Do you have any minerals that subsist of fossilized carbon?  Coal... I'm talking about coal!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/grey/mantis",
-		"value":{
+		"value":[
 			"By Ra! I thought you were a bug... I'll pack away my bug spray...",
 			"So, is it true that your females... eat your males?",
 			"What a magnificent weapon you have there... can I touch... oh... no, No! I'm not stealing your amber!",
@@ -159,10 +175,12 @@
 			"Show me to your leader!",
 			"We come in peace.",
 			"Stay Grey... Or green...ish."
-			},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/grey/varan",
-		"value":{
+		"value":[
 			"I wonder what you look like .... on the inside!",
 			"Could you turn around, just for a moment...",
 			"What big horns you have, compensating for something?",
@@ -178,10 +196,12 @@
 			"Show me to your leader!",
 			"We come in peace.",
 			"Stay Grey."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/grey/reptan",
-		"value":{
+		"value":[
 			"So, you wouldn't mind a probing? It won't hurt...!",
 			"What do you eat...",
 			"What a big jaw you have!",
@@ -196,10 +216,12 @@
 			"Show me to your leader!",
 			"We come in peace.",
 			"Stay Grey."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/avali",
-		"value":{
+		"value":[
 			"Ooo... good nose for nuzzling.",
 			"Give me feather?  Pleeeeease?",
 			"Cuddle puddle good for warm up.",
@@ -210,10 +232,12 @@
 			"It okay, you join our tribe.",
 			"Wanna join drum circle?",
 			"Spirits guide your blade."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/mantis",
-		"value":{
+		"value":[
 			"ME TALK LOUD SO YOU HEAR WITH NO EARS.",
 			"What is this?  Is called 'spear.'",
 			"This not fossil, it bone. Duh.",
@@ -228,10 +252,12 @@
 			"Elves hunt us. Dwarves hunt us. But life find a way.",
 			"You biggest bug me ever seed.",
 			"Why you like amber so much? Is no tasty OR shiny."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/mousqutaire",
-		"value":{
+		"value":[
 			"Womans is sacred, woman one nuzzles is holy.",
 			"There a bug on my squash.  It on gourd.  Hehe...",
 			"Umm... No, me never eaten a mouse.",
@@ -246,10 +272,12 @@
 			"No fall into revenge.  Revenge make Forlorn into Wraith.",
 			"Nice fur, wanna nuzzle?",
 			"Oh!  Me thoughted you was a kobold!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/munari",
-		"value":{
+		"value":[
 			"Give one scale? Pleeeease?",
 			"Worship water? That crazy. Worship animals.",
 			"So pretty skin. Look like war paint!",
@@ -260,13 +288,15 @@
 			"Organs deliciousness, but leave out nutrients! Gotta eat bone and meats too!",
 			"Oh no! Hylotl lost an eye!",
 			"Trade hunting tips?",
-			"You get water all over floor!"
+			"You get water all over floor!",
 			"Such nice spaceship, me feeling jelly. Hehehe.",
 			"Aren't you afraid of carps?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/nephilim",
-		"value":{
+		"value":[
 			"Me heard of Nephilim from book once. Nuzzled By An Angel.",
 			"You take souls with weapons? We put souls in weapons.",
 			"Stealing things just as good as crafting!",
@@ -280,10 +310,12 @@
 			"Me don't care if you angels. Still gotta make sacrifices.",
 			"You know Death? So does the Forlorn...",
 			"Maybe if you so sad and angry, you join Forlorn?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/peglaci",
-		"value":{
+		"value":[
 			"Frozen meats? Sounds fine to me!",
 			"You know any Cannibals?  Them sounds like Wraiths.",
 			"Of course spirits exist.  How you think babies becomes warriors?",
@@ -298,10 +330,12 @@
 			"Talk to shaman, she explain spirits to you.",
 			"Why you licking you lips...",
 			"Maybe if you no sit close to fire, you stay for story time?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/shell",
-		"value":{
+		"value":[
 			"Nano-machines? Me no know no machines neither.",
 			"Me no have any dural matter.",
 			"So all Shell girl? Who they nuzzle with?",
@@ -313,10 +347,12 @@
 			"You have many copies... You have a plan?",
 			"We guided spirits of animal. You guided spirits of toasters?",
 			"Scratch behind me ears? Careful though!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/varan",
-		"value":{
+		"value":[
 			"You go to war?  Against more Varan?  Why?",
 			"So shiny scales... Me want touch...",
 			"Tialatth take ears and give horns?",
@@ -333,10 +369,12 @@
 			"Who tastier?  Reptan or Varan?",
 			"You even less comfy looking than floran.",
 			"You give me one scale?  Pleeeeease?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/grey",
-		"value":{
+		"value":[
 			"How you make babies with no nose?",
 			"Do not want your shiny thing!",
 			"Hehehe...  Why greys always naked?",
@@ -348,10 +386,12 @@
 			"Maybe nuzzle back of head.",
 			"Kobold classic color also grey.",
 			"You lucky me not X-Combold."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/kobold/reptan",
-		"value":{
+		"value":[
 			"Finally someone with snout!",
 			"Coming in for nose nuzzles!",
 			"Wait, that not warpaint?",
@@ -363,10 +403,12 @@
 			"Who tastier?  Reptan or Varan?",
 			"You am Reptan!  Hear you roar!",
 			"You give me one scale?  Pleeeease?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mantis/avali",
-		"value":{
+		"value":[
 			"You're not related to Avians... are you?",
 			"What do you eat? Just curious.",
 			"Interesting. I've never read about your kind before.",
@@ -378,10 +420,12 @@
 			"Avali... I don't suppose you're from the Avialae clade?",
 			"You look too cute to be a predatory species.",
 			"Are you aware of the preservational properties of amber?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mantis/grey",
-		"value":{
+		"value":[
 			"Doo dee doo duu doo.  Did I get it right?",
 			"I wonder... What's your skull made of?",
 			"A probe? What for?",
@@ -394,10 +438,12 @@
 			"Finally, someone who respects research.",
 			"Your skeleton is on the inside? Weird.",
 			"Want to see my amber collection?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mantis/kobold",
-		"value":{
+		"value":[
 			"I hear you like to dig as well.",
 			"Don't worry, I won't eat your head.",
 			"Calm down, no one is eating anyones head.",
@@ -409,10 +455,12 @@
 			"So, does your species have a brain... or..?",
 			"Hey, little guy, are you lost?",
 			"That fossil belongs in a museum, not on your head."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mantis/munari",
-		"value":{
+		"value":[
 			"Welcome, fish friend, stay a while.",
 			"Your DNA bears striking resemblance to the Hylotl.",
 			"Your homeworld must be rich in history, Munari.",
@@ -426,10 +474,12 @@
 			"I've got it, you're a shark!  Wait, sharks have noses. Urgh.",
 			"Your skeleton is on the inside? Weird.",
 			"Want to see my amber collection?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mantis/reptan",
-		"value":{
+		"value":[
 			"Wait, you eat insects?",
 			"Don't get too close, Reptan.",
 			"I hear you study crystals. You wouldn't happen to have any amber, would you?",
@@ -441,10 +491,12 @@
 			"Tell me more about the Reptan history.",
 			"Your skeleton is on the inside? Weird.",
 			"Want to see my amber collection?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mantis/varan",
-		"value":{
+		"value":[
 			"War? What do you mean by war?",
 			"What's it like in the desert?",
 			"Don't tell me you eat insects too.",
@@ -453,10 +505,12 @@
 			"Tell me more of your culture. Wait, let me get a pen.",
 			"Your skeleton is on the inside? Weird.",
 			"Want to see my amber collection?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/avali",
-		"value":{
+		"value":[
 			"A tail is a sign of greatness.",
 			"Sit and rest your tail, friend.",
 			"Your technology is far beyond ours, stranger.",
@@ -467,10 +521,12 @@
 			"Av-ali the species 'round you're the first of your kind in these parts.",
 			"Cheer up friend, a small tail is better than no tail.",
 			"Perhaps we can hunt together sometime?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/grey",
-		"value":{
+		"value":[
 			"Would you mind staying out of my mind?",
 			"Oh my! What happened to your fur?",
 			"I'm watching you, stranger.",
@@ -481,10 +537,12 @@
 			"You must be what a human speaks of when he refers to Grey's anatomy.",
 			"So... how does this tinfoil hat prevent probing?",
 			"I like to sing-a, about the moon-a and the June-a and the spring-a!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/kobold",
-		"value":{
+		"value":[
 			"Our technologies aren't so far apart, Kobold.",
 			"This universe is much larger than we ever thought, huh?",
 			"All the technology can be a bit overwhelming.",
@@ -495,10 +553,12 @@
 			"...Uhm, please stop trying to nuzzle me.",
 			"Would you like to join in our hunt?",
 			"Well, it has been a while since I had a good nuzzling..."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/mantis",
-		"value":{
+		"value":[
 			"It is sometimes best to let go of the past.",
 			"Amber? In our world we value cheese, perhaps they are similar?",
 			"Your mother did what to your father?! Holy Cheesus!",
@@ -509,10 +569,12 @@
 			"Have you ever tried to genetically engineer a dinosaur out of that?",
 			"I'm sorry, I'm just not that interested in your old vase.",
 			"I too know what it's like to share similar features with a diminutive animal."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/munari",
-		"value":{
+		"value":[
 			"You eat organs you say? That's quite barbaric.",
 			"May Cheesus save your tail... err, or whatever you call those flappy things.",
 			"Please refrain from heathen rituals here.",
@@ -523,10 +585,12 @@
 			"I am told you worship many gods? Do any at least live in a giant wheel of cheese?",
 			"Would you have any tips for my hydroponics system?",
 			"You can save yourself from your savagery."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/nephilim",
-		"value":{
+		"value":[
 			"Abomination!",
 			"Stay back, demon.",
 			"I shall smite you!",
@@ -537,10 +601,12 @@
 			"Don't come any closer!",
 			"Cheesus protect us.",
 			"Beware, fel-foe, I will cast you down."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/peglaci",
-		"value":{
+		"value":[
 			"I always admire a fine coat of fur.",
 			"The oil on your fur prevents freezing and matting you say? Interesting.",
 			"Wouldn't you like some ACTUAL food?",
@@ -551,10 +617,12 @@
 			"Do you have any experience with hydroponics?",
 			"How do you grow crops in such frigid environments?",
 			"A tail is a sign of greatness."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/reptan",
-		"value":{
+		"value":[
 			"I'm not sure I like how you're looking at me...",
 			"I will defend myself!",
 			"Nobody wants any problems around here.",
@@ -565,10 +633,12 @@
 			"I apologize, but you must understand you resemble predators from our world.",
 			"I'm sure given time the swarm will get used to you.",
 			"Well, you do have a tail, so maybe you're alright."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/shell",
-		"value":{
+		"value":[
 			"What kind of witchcraft is this?!",
 			"A witch! A witch! Burn it!",
 			"Don... Don't come a... any closer!",
@@ -576,10 +646,12 @@
 			"I condemn thee vile witch!",
 			"En garde!",
 			"She turned me into a newt!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/mousqutaire/varan",
-		"value":{
+		"value":[
 			"Serpent! Serpent!",
 			"Back fiend! I'm not anyone's dinner!",
 			"Prepare yourself, Serpent!",
@@ -590,10 +662,12 @@
 			"Your nose deceives you, I am not edible!",
 			"I won't allow you to eat my swarm!",
 			"*firmly grasps sword hilt*"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/munari/avali",
-		"value":{
+		"value":[
 			"Are you a god?",
 			"You're an odd looking one.",
 			"Don't eat me! I'm not a fish!",
@@ -601,10 +675,12 @@
 			"You should show me the Nexus sometime!",
 			"Are there more of you around?",
 			"Can I have a feather for good luck?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/munari/grey",
-		"value":{
+		"value":[
 			"Yum! Grey organs?",
 			"So squishy! You must contain lots of organs!",
 			"I hear you are good with architecture. Can you build me a house?",
@@ -612,10 +688,12 @@
 			"Do you know what I'm thinking? *drools*",
 			"Why heeelloooooo!",
 			"Do you come in peace?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/munari/kobold",
-		"value":{
+		"value":[
 			"Keep your fingers off my stuff!",
 			"You worship too? We have so much in common!",
 			"Are you okay? Are you even listening to me?",
@@ -624,10 +702,12 @@
 			"Can you swim?",
 			"'Found' anything lately?",
 			"I can protect you! For a price."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/munari/mantis",
-		"value":{
+		"value":[
 			"Why don't you go BUG someone else!",
 			"You seem very peaceful.",
 			"Where did I leave that spray can...",
@@ -635,10 +715,12 @@
 			"I have seen the most intriguing things underwater.",
 			"Amber you say? What is that?",
 			"Are you a crustacean?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/munari/reptan",
-		"value":{
+		"value":[
 			"I like the sheen on your scales.",
 			"Personal space please!",
 			"Hello sir!... Miss?",
@@ -646,10 +728,12 @@
 			"The warmth of the sun makes me itchy.",
 			"Praise the sun!",
 			"I haven't seen any insects lately."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/munari/shell",
-		"value":{
+		"value":[
 			"You want to put what in my what?!",
 			"You seem trusting enough.",
 			"There's just something about you...",
@@ -657,10 +741,12 @@
 			"Nice claws. I've got an itch right back... if you could just...",
 			"You're a Shell? I love shells!",
 			"Yikes! You need to trim those claws!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/avali",
-		"value":{
+		"value":[
 			"Unlike my brethren, I am quite fond of Avali. They're quite nice, on a spit, drenched in barbeque sauce.",
 			"Don't mold around me, unless you wish to lose your skin as well.",
 			"Leave me be, bird. I do not understand your squawking.",
@@ -668,10 +754,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own discretion.",
 			"Keep the balance stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/grey",
-		"value":{
+		"value":[
 			"You come in peace? I don't.",
 			"Our leaders meet with no one they do not seek out themselves.",
 			"My cousin was visted by your race once. They invaded his sanctuary, tied him down, and then he killed them all.",
@@ -681,10 +769,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/kobold",
-		"value":{
+		"value":[
 			"Dogs belong in a kennel.",
 			"Keep your nose to yourself if you wish to keep it.",
 			"Canines make good warriors. Do not deny your inner nature.",
@@ -695,10 +785,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/mantis",
-		"value":{
+		"value":[
 			"Keep in mind your boundaries, Mantis. The Charred Council is watching.",
 			"Any race that is willing to resort to cannibalism is fine by me.",
 			"The future is ahead of you, not your past.",
@@ -708,10 +800,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/mousqutaire",
-		"value":{
+		"value":[
 			"Keep it up and we'll have mousekabobs tonight.",
 			"If I sought the company of mice, I'd get one as a pet.",
 			"Wh-What?! Did you just smack me with your glove?! Be gone, rat!",
@@ -722,10 +816,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/munari",
-		"value":{
+		"value":[
 			"Organ harvesters? You're missing the best part. The soul.",
 			"I've met another aquatic species similar to yours. Their souls make for good weapons.",
 			"You have scythes but don't take souls? I am appalled.",
@@ -734,10 +830,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/peglaci",
-		"value":{
+		"value":[
 			"There are some rotten corpses from a struggle earlier. Consume all that you want.",
 			"Having four eyes might seem like an advantage, but that's 2 more to be stabbed out.",
 			"Strive to create peace all you want, but do not stray out of your territories, for the Charred Council is watching.",
@@ -746,10 +844,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own discretion.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/reptan",
-		"value":{
+		"value":[
 			"My blade can cause a burning sensation upon contact. Would you like to touch it?",
 			"I've heard tales that your race is the best one to get a ship from. One of our warriors reported that he stole several ships without hassle.",
 			"You want to know more about our technology? Get a scythe. Take a soul. Find Vulgrim.",
@@ -757,10 +857,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/shell",
-		"value":{
+		"value":[
 			"I will only speak with the being inside.",
 			"You cower inside your ship while sending drones to speak to me. Don't expect cooperation.",
 			"You may not be here, but a bit of your spark still is.",
@@ -769,10 +871,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/nephilim/varan",
-		"value":{
+		"value":[
 			"They're not truly your slaves until you enslave their soul.",
 			"There is much to be made in cooperation. Many souls to reap.",
 			"Don't bother haggling with me, lizard. All I sell is death.",
@@ -781,10 +885,12 @@
 			"The Charred Council has granted this area to us. Proceed at your own risk.",
 			"Keep the balance, stranger.",
 			"If you have souls, seek out vulgrim."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/avali",
-		"value":{
+		"value":[
 			"You are free to explore our settlement, Cold One.",
 			"Heavens above, all this water must be a nightmare for you. Come dry off.",
 			"Your feathers are very striking - I'm sure with my eyes I'm missing out on the subtlety of the colors, but the patterns are lovely.",
@@ -799,10 +905,12 @@
 			"Scurry off, Avali. I have no time to talk to landlubbers like you.",
 			"Would you like to go for a swim?",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/grey",
-		"value":{
+		"value":[
 			"I hear your race is renowned for their intelligence - very admirable.",
 			"Your head is quite large relative to the rest of your body - not very streamlined.",
 			"I've heard rumors that you dissect or vivisect humans - best beware of the Peace keepers, if this is so.",
@@ -816,10 +924,12 @@
 			"Are you cold? We can adjust the temperature if need be - just ask!",
 			"Would you like to go for a swim?",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/kobold",
-		"value":{
+		"value":[
 			"Well, you're adorable.",
 			"You remind me of my children - they would much desire to play with you.",
 			"You know, little one, the spirits you worship are but illusions.",
@@ -834,10 +944,12 @@
 			"Are you cold? We can adjust the temperature, if need be - just ask!",
 			"Would you like to go for a swim?",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/mantis",
-		"value":{
+		"value":[
 			"No insects grow half as large on Pegla.",
 			"I assure you, I have no interest in amber. Much of the coloration is lost with our visual limitation, I'm told.",
 			"You must be FREEZING in here!  Sorry!",
@@ -851,10 +963,12 @@
 			"Your eyes are a lovely hue.",
 			"Are you cold? We can adjust the temperature, if need be -  just ask!",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/mousqutaire",
-		"value":{
+		"value":[
 			"What a fine tail you have!",
 			"Those ears are certainly something.",
 			"Uh, I'll pass on a duel, little one.",
@@ -867,10 +981,12 @@
 			"Good luck on your adventures!",
 			"Care to go for a swim?",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/munari",
-		"value":{
+		"value":[
 			"Finally, another aquatic race. The Hylotl don't count.",
 			"Your type is much less stodgy than those Hylotl.",
 			"You are of course welcome to sample the organs of our dead - they certainly aren't using them anymore!",
@@ -884,10 +1000,12 @@
 			"The Peace keepers have no reported trouble with the Munari - keep it that way.",
 			"Dress warm, my friend!",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/nephilim",
-		"value":{
+		"value":[
 			"You meddle with science you do not understand and call it ritual - I pity you.",
 			"Souls do not exist, you deluded children.",
 			"What you call magic is nothing but science your ancestors have stolen and ritualized.",
@@ -897,10 +1015,12 @@
 			"...psst - If you desire souls, seek out the Cannibals. They would have much to give one such as you.",
 			"Go 'vulgrim' yourself.",
 			"Call the Peace keepers if you required assistance - though given the caller, they ought to leave you to rot."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/reptan",
-		"value":{
+		"value":[
 			"The cold must be murder on you - come, warm yourself.",
 			"Pardon, we're not ideally set up for poikilotherms here...",
 			"Oh, alright, feel free to touch the fur.",
@@ -914,10 +1034,12 @@
 			"I hear your kind often goes nude - that is an admirable attitude! When among the safety of family and clan, what use for external coverings?",
 			"Care to go for a swim?",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/shell",
-		"value":{
+		"value":[
 			"You appear human, but your infra-red profile is completely off.",
 			"Those nails look very sharp - be careful.",
 			"I'll pass on the nano-machines, thanks. We get enough of that sort of thing back home.",
@@ -929,10 +1051,12 @@
 			"Not much for jokes, are you machine?",
 			"Care to go for a swim?",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/peglaci/varan",
-		"value":{
+		"value":[
 			"It is shameful to war - doubly so against one's own species...",
 			"The Peace keepers can intervene in your war, should you wish it...",
 			"Slavery is an atrocity - you'd best not be in that faction...",
@@ -946,10 +1070,12 @@
 			"We are opposite species in many ways, but we are glad to call your race friend.",
 			"...psst - If you are a slaver, seek out the Cannibals. They would have much to give one such as you...",
 			"Call the Peace keepers if you require assistance - they will come if the need is great."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/avali",
-		"value":{
+		"value":[
 			"I can feel how cold you are from here.",
 			"Wow, how can you move? You're so cold!",
 			"Those feathers look so soft~",
@@ -972,10 +1098,12 @@
 			"I wish I had a cool weapon like that!",
 			"The bath house is that way, if you need it.",
 			"I know I miss home, do you?"	
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/kobold",
-		"value":{
+		"value":[
 			"You look warm...could I just sit next to you for a while?",
 			"Can I hug you, or would you prefer an embrace?",
 			"Hello! You look...fluffy today?",
@@ -994,10 +1122,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/mantis",
-		"value":{
+		"value":[
 			"Do you mind? I have places to be.",
 			"I miss home... I need something warm...",
 			"Welcome!",
@@ -1017,11 +1147,12 @@
 			"Perhaps you could integrate your archaeological finds with our science.",
 			"Amber you say? Our science teams might be able to do a little something with it...",
 			"May we take a DNA sample from that amber? I'd love to perform tests!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/mousqutaire",
-		"value":{
-			"mousequtaire":[
+		"value":[
 			"Please... I don't want to fight.",
 			"A duel? As long as no one is hurt.",
 			"No, we don't have cheese. This planet has no cows.",
@@ -1034,10 +1165,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/munari",
-		"value":{
+		"value":[
 			"You might like our Bath houses.",
 			"The sunning rocks are behind the houses and the bathhouse is around the corner.",
 			"You smell a little funny...",
@@ -1052,10 +1185,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/nephilim",
-		"value":{
+		"value":[
 			"You look menacing.",
 			"By the look of your armor, you might want to invest in thermal weaponry.",
 			"Were you the one who rode in on a flaming horse?",
@@ -1069,10 +1204,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/peglaci",
-		"value":{
+		"value":[
 			"I've heard about your people. Come in, have a seat.",
 			"Would you mind if our scientists did a physical on you? We don't have much information on you guys.",
 			"I've never eaten raw meat before. Does it taste metallic or what?",
@@ -1086,10 +1223,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/shell",
-		"value":{
+		"value":[
 			"Those claws look... useful?",
 			"No nanoneuromachines, please, I'm allergic.",
 			"What? Why would I want a dural implant?",
@@ -1104,10 +1243,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/varan",
-		"value":{
+		"value":[
 			"I almost mistook you for one of my own!",
 			"Do you prefer insects, or plants?",
 			"We should get a drink later. I would love to hear more about your species.",
@@ -1124,10 +1265,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/reptan/grey",
-		"value":{
+		"value":[
 			"Did you see those lights a few minutes ago?",
 			"Might you know a good way to make ultraviolet-infrared conversion crystals?",
 			"Are you warm or cold blooded? I can't tell from here.",
@@ -1144,10 +1287,12 @@
 			"I wish I had a cool weapon like that!",
 			"The others welcome you, but I know why you're here.",
 			"The bath house is that way, if you need it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/avali",
-		"value":{
+		"value":[
 			"What a gorgeous tail you have.",
 			"I would love to see you glide along the wind currents, Avali.",
 			"Such striking stripes! You're not poisonous, are you?",
@@ -1159,10 +1304,12 @@
 			"I'm sorry, we don't have any ice for you.",
 			"What kind of sad creature can't stand the heat?",
 			"Welcome, Avali. Come out of the desert sun."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/grey",
-		"value":{
+		"value":[
 			"I hear you enjoy anal probing.",
 			"Take me away in your spaceship!",
 			"How do you support such a large head?",
@@ -1175,10 +1322,12 @@
 			"Aah!  It's a monster!",
 			"So, when are you due?",
 			"A large head does not mean a large brain."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/kobold",
-		"value":{
+		"value":[
 			"It's so fluffy, I'm gonna die!",
 			"Such a simple mind.",
 			"Poor thing, wandering in from the dark. Take a rest.",
@@ -1191,10 +1340,12 @@
 			"Oh dear. Can you even kill anything with that weapon?",
 			"How cute. It thinks it's people.",
 			"You call that armour?"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/mantis",
-		"value":{
+		"value":[
 			"Found any dragon bones on your travels, professor?",
 			"I thought it was impossible for arthropods to grow so large? That said, I am a giant lizard.",
 			"Don't you 'bzz' at me.",
@@ -1207,10 +1358,12 @@
 			"Wings ON your tail? How counter-intuitive.",
 			"What's in the pouch?",
 			"That is a lovely coat. I want it."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/mousqutaire",
-		"value":{
+		"value":[
 			"Your homeworld is a grassland? How pleasant.",
 			"Oh no, we have tails, they're just... hiding.",
 			"So uh, what's your obsession with cheese?",
@@ -1221,10 +1374,12 @@
 			"You're not going to hurt anyone with such a flimsy sword.",
 			"Rodents are good eating, you know...",
 			"Oh please, 'Cheesus?' That's just silly."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/munari",
-		"value":{
+		"value":[
 			"Striped like a tiger. Shark.",
 			"No, you may not borrow my organs.",
 			"Sorry, this skin is staying on my body.",
@@ -1238,10 +1393,12 @@
 			"You certainly are a long way from home.",
 			"I must admit, you have the Hylotl beat out on fins.",
 			"There's no water for you here, sorry."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/nephilim",
-		"value":{
+		"value":[
 			"Get away, demonspawn!",
 			"My soul belongs to me, thank you very much.",
 			"Your evil magic is not welcome here.",
@@ -1250,10 +1407,12 @@
 			"I'm not ready to die yet!",
 			"Come to steal our technology, foul beast?",
 			"Stay away from me, monster!"
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/peglaci",
-		"value":{
+		"value":[
 			"Tell us more of your creators.",
 			"You're carnivorous? You look like a goat to me.",
 			"Don't get dust in your eyes.",
@@ -1262,10 +1421,12 @@
 			"Such amazing weapons! You must show me how to wield them.",
 			"It's very hot here. Perhaps you need a shave.",
 			"Your race are predators? Perhaps we can hunt together."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/reptan",
-		"value":{
+		"value":[
 			"Scale-friend! Come sunbathe with me.",
 			"What are you, a bad shapeshifter?",
 			"Such fine fins.",
@@ -1275,10 +1436,12 @@
 			"How curious. Do we have a common ancestor?",
 			"At first I thought you were a deformed Varan.",
 			"You have an abnormally large head for a reptilian."
-		},
+		]
+	},
+	{
 		"op":"add",
 		"path":"/converse/varan/shell",
-		"value":{
+		"value":[
 			"Sorry, I mistook you for a human.",
 			"You should really cut your nails.",
 			"How about a manicure once in a while?",
@@ -1288,6 +1451,6 @@
 			"Remind me not to challenge you to a staring contest.",
 			"Beep boop.",
 			"If you have no emotions, does that mean you don't get offended?"
-		}
+		]
 	}
 ]
