@@ -7,6 +7,23 @@
 		},
 		{
 			"op":"add",
+			"path":"/converse/avali/avikan",
+			"value":[
+				"You wouldn't believe how many times I've been called an Avikan.",
+				"I'm a huge fan of Avikan culture! Love your use of orange on the, well, everything.",
+				"\"Desert Avali\"... Can you believe people sometimes? Wait, where are you going?",
+				"So... how do you feel about AI?",
+				"I hope you aren't against artificial intelligences...",
+				"Maybe the Avikan should give AI another try.",
+				"Want to trade tent-building techniques? I could tell you all about nanocanvas...",
+				"Why are you still using bone weaponry when you have so much better technology to use?",
+				"Is that bone? I thought the Avikan were more advanced than that...",
+				"It's surprising what you all manage to build with just leather!",
+				"Have you ever seen a Centens before? What were they like? Just curious..."
+			]
+		},
+		{
+			"op":"add",
 			"path":"/converse/avali/grey",
 			"value":[
 				"Hi~",
