@@ -6,6 +6,5 @@
 	"version":"1.0",
 	"link":"",
 	"steamContentId":"",
-	"includes":["Avali", "grey", "Kobold", "Mantis", "Mousqutaire", "Murani", "Nephilim", "Peglaci", "Reptan", "Shell", "Varan"],
-	"priority":
+	"includes":["Avali", "grey", "Kobold", "Murani", "Peglaci"]
 }
