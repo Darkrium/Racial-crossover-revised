@@ -130,6 +130,14 @@
 				"Maybe you would want some architectural advice... Your buildings are a bit flimsy. We've helped many cultures with this!",
 				"Greetings! Do you have any minerals that subsist of fossilized carbon?  Coal... I'm talking about coal!"
 			]
+		}
+	],
+	
+	//KOBOLD
+	[
+		{	"op":"test",
+			"path":"/converse/kobold",
+			"inverse": false
 		},
 		{
 			"op":"add",
@@ -145,26 +153,6 @@
 				"It okay, you join our tribe.",
 				"Wanna join drum circle?",
 				"Spirits guide your blade."
-			]
-		},
-		{
-			"op":"add",
-			"path":"/converse/kobold/mousqutaire",
-			"value":[
-				"Womans is sacred, woman one nuzzles is holy.",
-				"There a bug on my squash.  It on gourd.  Hehe...",
-				"Umm... No, me never eaten a mouse.",
-				"Me carried a spear in both hands once.  Mostly me stabbed self.",
-				"Your ears so big!  We like brothers!",
-				"Squeak, squeak me says.",
-				"How come mouse spirits never helps us?",
-				"No worry, we no keep cats.  We eats cats.",
-				"Eeeuulaaliiiaaaaa!",
-				"For kobolds, honor am bring food for family.",
-				"Kobold philosophy is all for one, lunch for all.",
-				"No fall into revenge.  Revenge make Forlorn into Wraith.",
-				"Nice fur, wanna nuzzle?",
-				"Oh!  Me thoughted you was a kobold!"
 			]
 		},
 		{
@@ -270,19 +258,6 @@
 				"'Found' anything lately?",
 				"I can protect you! For a price."
 			]
-		},
-		{
-			"op":"add",
-			"path":"/converse/munari/mantis",
-			"value":[
-				"Why don't you go BUG someone else!",
-				"You seem very peaceful.",
-				"Where did I leave that spray can...",
-				"There are lots of interesting things below the sea.",
-				"I have seen the most intriguing things underwater.",
-				"Amber you say? What is that?",
-				"Are you a crustacean?"
-			]
 		}
 	],
 
@@ -348,43 +323,6 @@
 				"Oh, are we nuzzling? Alright, I shall nuzzle back!",
 				"Are you cold? We can adjust the temperature, if need be - just ask!",
 				"Would you like to go for a swim?",
-				"Call the Peace keepers if you require assistance - they will come if the need is great."
-			]
-		},
-		{
-			"op":"add",
-			"path":"/converse/peglaci/mantis",
-			"value":[
-				"No insects grow half as large on Pegla.",
-				"I assure you, I have no interest in amber. Much of the coloration is lost with our visual limitation, I'm told.",
-				"You must be FREEZING in here!  Sorry!",
-				"You look like a figure out of my nightmares. Pardon, that was a horrible thing to say!",
-				"No amber here. Lots of ice. Still preserves things pretty well.",
-				"If it's the ancient you seek, you will find much of it in our museums.",
-				"Starships made of amber? That's like making buildings out of ice.",
-				"Welcome, Professor.",
-				"I have heard tell your race has added much to the fields of archaeology - very admirable.",
-				"Care for a swim? ... Can you swim?",
-				"Your eyes are a lovely hue.",
-				"Are you cold? We can adjust the temperature, if need be -  just ask!",
-				"Call the Peace keepers if you require assistance - they will come if the need is great."
-			]
-		},
-		{
-			"op":"add",
-			"path":"/converse/peglaci/mousqutaire",
-			"value":[
-				"What a fine tail you have!",
-				"Those ears are certainly something.",
-				"Uh, I'll pass on a duel, little one.",
-				"I've never gotten the taste for cheese - a good hunk of blubber spread on toast is lovely, though.",
-				"Hey, stop trying to look for my tail! It's vestigial, alright!?",
-				"You'll catch your death in here - you must dress warmly!",
-				"Bonjour!~",
-				"Say, cheese IS pretty good!",
-				"Watch out you don't get eaten, little morsel...",
-				"Good luck on your adventures!",
-				"Care to go for a swim?",
 				"Call the Peace keepers if you require assistance - they will come if the need is great."
 			]
 		},
