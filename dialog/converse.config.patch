@@ -130,7 +130,26 @@
 				"Maybe you would want some architectural advice... Your buildings are a bit flimsy. We've helped many cultures with this!",
 				"Greetings! Do you have any minerals that subsist of fossilized carbon?  Coal... I'm talking about coal!"
 			]
-		}
+		},
+        {
+            "op":"add",
+            "path":"/converse/grey/munari",
+            "value":[
+                "You almost resemble one of our own... intriguing!",
+                "Are you a Hylotl? You seem to have misplaced your fins.",
+                "How can your technology function underwater?",
+                "Those markings are unique... may I take a closer look?",
+                "Worshiping water deities? Thank you, but I'll pass.",
+                "Do you eat Psifruit too? ...No? Only organs?",
+                "I'd read your mind, but there's not much to see...",
+                "<poke> Hmm, squishy...",
+                "An all-organ diet cannot be healthy... too much cholesterol.",
+                "You're dripping everywhere...",
+                "Show me to your leader!",
+                "We come in peace.",
+                "Stay Grey."
+            ]
+        }
 	],
 	
 	//KOBOLD
